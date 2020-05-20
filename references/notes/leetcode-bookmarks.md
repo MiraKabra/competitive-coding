@@ -33,3 +33,5 @@
                     dp[i&1, s] = d[!(i&1), s]
                     if(c[i] <= s) dp[i&1, s] += d[!(i&1), s-c[i]]
             ```
+
+3. [A general approach to backtracking questions in Java (Subsets, Permutations, Combination Sum, Palindrome Partioning)](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
