@@ -12,6 +12,7 @@
     2.  My Library
 4.  Guides
     1.  [Guide for Dummies](https://leetcode.com/discuss/general-discussion/623011/A-guide-for-dummies-(like-me))
+    2.  [Interview Preparation for Beginners - [ DS | Algorithms | OS | System Design ]](https://leetcode.com/discuss/general-discussion/698684/interview-preparation-for-beginners-ds-algorithms-os-system-design)
 
 ## Topicwise References
 ### Game Theory
